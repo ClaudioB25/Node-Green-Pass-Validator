@@ -1,4 +1,5 @@
 # Node-Green-Pass-Validator
+This is my implementation of https://github.com/ministero-salute/dcc-utils
 
 ### Install
 * clone project
